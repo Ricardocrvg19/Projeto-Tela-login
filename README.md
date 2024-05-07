@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 <br>
 <br>
-  <h4 id="mission">login screen simulation </h4>
 <br>
 <h3 id="desktop">Desktop Project</h3>
 <br>
